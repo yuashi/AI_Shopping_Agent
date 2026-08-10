@@ -1,0 +1,2426 @@
+[
+  {
+    "review_id": "R1",
+    "product_id": "P1000",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R2",
+    "product_id": "P1001",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R3",
+    "product_id": "P1001",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R4",
+    "product_id": "P1001",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 3
+  },
+  {
+    "review_id": "R5",
+    "product_id": "P1002",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R6",
+    "product_id": "P1002",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R7",
+    "product_id": "P1002",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R8",
+    "product_id": "P1003",
+    "text": "Great value. Shipping was fast and the headphones arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R9",
+    "product_id": "P1003",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R10",
+    "product_id": "P1003",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 5
+  },
+  {
+    "review_id": "R11",
+    "product_id": "P1004",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 3
+  },
+  {
+    "review_id": "R12",
+    "product_id": "P1005",
+    "text": "Great value. Shipping was fast and the monitor arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R13",
+    "product_id": "P1006",
+    "text": "Been using this drive for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R14",
+    "product_id": "P1006",
+    "text": "Decent drive but the instructions could be clearer.",
+    "stars": 2
+  },
+  {
+    "review_id": "R15",
+    "product_id": "P1006",
+    "text": "Decent drive but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R16",
+    "product_id": "P1007",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R17",
+    "product_id": "P1007",
+    "text": "Great value. Shipping was fast and the earbuds arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R18",
+    "product_id": "P1008",
+    "text": "Disappointed, the webcam stopped working within a week.",
+    "stars": 2
+  },
+  {
+    "review_id": "R19",
+    "product_id": "P1009",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R20",
+    "product_id": "P1010",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R21",
+    "product_id": "P1010",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R22",
+    "product_id": "P1010",
+    "text": "Works exactly as described, mouse quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R23",
+    "product_id": "P1010",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R24",
+    "product_id": "P1011",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R25",
+    "product_id": "P1011",
+    "text": "Been using this webcam for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R26",
+    "product_id": "P1011",
+    "text": "Disappointed, the webcam stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R27",
+    "product_id": "P1012",
+    "text": "Works exactly as described, speaker quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R28",
+    "product_id": "P1012",
+    "text": "Decent speaker but the instructions could be clearer.",
+    "stars": 2
+  },
+  {
+    "review_id": "R29",
+    "product_id": "P1012",
+    "text": "Been using this speaker for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R30",
+    "product_id": "P1013",
+    "text": "Works exactly as described, drive quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R31",
+    "product_id": "P1013",
+    "text": "Works exactly as described, drive quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R32",
+    "product_id": "P1013",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R33",
+    "product_id": "P1014",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R34",
+    "product_id": "P1014",
+    "text": "Disappointed, the headphones stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R35",
+    "product_id": "P1014",
+    "text": "Great value. Shipping was fast and the headphones arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R36",
+    "product_id": "P1014",
+    "text": "Works exactly as described, headphones quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R37",
+    "product_id": "P1015",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R38",
+    "product_id": "P1015",
+    "text": "Great value. Shipping was fast and the charger arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R39",
+    "product_id": "P1015",
+    "text": "Been using this charger for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R40",
+    "product_id": "P1015",
+    "text": "Works exactly as described, charger quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R41",
+    "product_id": "P1016",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 3
+  },
+  {
+    "review_id": "R42",
+    "product_id": "P1016",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R43",
+    "product_id": "P1017",
+    "text": "Great value. Shipping was fast and the headphones arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R44",
+    "product_id": "P1017",
+    "text": "Been using this headphones for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R45",
+    "product_id": "P1018",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 4
+  },
+  {
+    "review_id": "R46",
+    "product_id": "P1018",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R47",
+    "product_id": "P1019",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 5
+  },
+  {
+    "review_id": "R48",
+    "product_id": "P1019",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R49",
+    "product_id": "P1019",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R50",
+    "product_id": "P1019",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R51",
+    "product_id": "P1020",
+    "text": "Works exactly as described, webcam quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R52",
+    "product_id": "P1021",
+    "text": "Works exactly as described, speaker quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R53",
+    "product_id": "P1021",
+    "text": "Decent speaker but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R54",
+    "product_id": "P1021",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R55",
+    "product_id": "P1021",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R56",
+    "product_id": "P1022",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 2
+  },
+  {
+    "review_id": "R57",
+    "product_id": "P1022",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R58",
+    "product_id": "P1022",
+    "text": "Works exactly as described, webcam quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R59",
+    "product_id": "P1022",
+    "text": "Great value. Shipping was fast and the webcam arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R60",
+    "product_id": "P1023",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R61",
+    "product_id": "P1023",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R62",
+    "product_id": "P1024",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R63",
+    "product_id": "P1024",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R64",
+    "product_id": "P1024",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R65",
+    "product_id": "P1025",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R66",
+    "product_id": "P1025",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R67",
+    "product_id": "P1025",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R68",
+    "product_id": "P1026",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R69",
+    "product_id": "P1026",
+    "text": "Works exactly as described, drive quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R70",
+    "product_id": "P1026",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R71",
+    "product_id": "P1027",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R72",
+    "product_id": "P1028",
+    "text": "Great value. Shipping was fast and the headphones arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R73",
+    "product_id": "P1028",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 4
+  },
+  {
+    "review_id": "R74",
+    "product_id": "P1028",
+    "text": "Been using this headphones for a few weeks now and it's held up really well.",
+    "stars": 2
+  },
+  {
+    "review_id": "R75",
+    "product_id": "P1029",
+    "text": "Works exactly as described, monitor quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R76",
+    "product_id": "P1030",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R77",
+    "product_id": "P1031",
+    "text": "Been using this charger for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R78",
+    "product_id": "P1031",
+    "text": "Decent charger but the instructions could be clearer.",
+    "stars": 4
+  },
+  {
+    "review_id": "R79",
+    "product_id": "P1031",
+    "text": "Great value. Shipping was fast and the charger arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R80",
+    "product_id": "P1031",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 3
+  },
+  {
+    "review_id": "R81",
+    "product_id": "P1032",
+    "text": "Been using this charger for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R82",
+    "product_id": "P1032",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 2
+  },
+  {
+    "review_id": "R83",
+    "product_id": "P1032",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R84",
+    "product_id": "P1032",
+    "text": "Great value. Shipping was fast and the charger arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R85",
+    "product_id": "P1033",
+    "text": "Disappointed, the speaker stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R86",
+    "product_id": "P1033",
+    "text": "Great value. Shipping was fast and the speaker arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R87",
+    "product_id": "P1033",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R88",
+    "product_id": "P1033",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 5
+  },
+  {
+    "review_id": "R89",
+    "product_id": "P1034",
+    "text": "Been using this mouse for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R90",
+    "product_id": "P1035",
+    "text": "Disappointed, the speaker stopped working within a week.",
+    "stars": 4
+  },
+  {
+    "review_id": "R91",
+    "product_id": "P1035",
+    "text": "Been using this speaker for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R92",
+    "product_id": "P1035",
+    "text": "Disappointed, the speaker stopped working within a week.",
+    "stars": 4
+  },
+  {
+    "review_id": "R93",
+    "product_id": "P1035",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R94",
+    "product_id": "P1036",
+    "text": "Works exactly as described, drive quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R95",
+    "product_id": "P1036",
+    "text": "Great value. Shipping was fast and the drive arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R96",
+    "product_id": "P1037",
+    "text": "Decent keyboard but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R97",
+    "product_id": "P1037",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R98",
+    "product_id": "P1037",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R99",
+    "product_id": "P1038",
+    "text": "Disappointed, the bank stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R100",
+    "product_id": "P1039",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 5
+  },
+  {
+    "review_id": "R101",
+    "product_id": "P1039",
+    "text": "Works exactly as described, earbuds quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R102",
+    "product_id": "P1040",
+    "text": "Works exactly as described, board quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R103",
+    "product_id": "P1040",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R104",
+    "product_id": "P1041",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R105",
+    "product_id": "P1042",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R106",
+    "product_id": "P1043",
+    "text": "Works exactly as described, toaster quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R107",
+    "product_id": "P1043",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R108",
+    "product_id": "P1044",
+    "text": "Decent fryer but the instructions could be clearer.",
+    "stars": 5
+  },
+  {
+    "review_id": "R109",
+    "product_id": "P1044",
+    "text": "Disappointed, the fryer stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R110",
+    "product_id": "P1045",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R111",
+    "product_id": "P1046",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R112",
+    "product_id": "P1046",
+    "text": "Works exactly as described, set quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R113",
+    "product_id": "P1046",
+    "text": "Works exactly as described, set quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R114",
+    "product_id": "P1046",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R115",
+    "product_id": "P1047",
+    "text": "Great value. Shipping was fast and the blender arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R116",
+    "product_id": "P1048",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 2
+  },
+  {
+    "review_id": "R117",
+    "product_id": "P1048",
+    "text": "Decent maker but the instructions could be clearer.",
+    "stars": 4
+  },
+  {
+    "review_id": "R118",
+    "product_id": "P1048",
+    "text": "Been using this maker for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R119",
+    "product_id": "P1048",
+    "text": "Decent maker but the instructions could be clearer.",
+    "stars": 3
+  },
+  {
+    "review_id": "R120",
+    "product_id": "P1049",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R121",
+    "product_id": "P1049",
+    "text": "Been using this bin for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R122",
+    "product_id": "P1049",
+    "text": "Works exactly as described, bin quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R123",
+    "product_id": "P1050",
+    "text": "Great value. Shipping was fast and the maker arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R124",
+    "product_id": "P1050",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 4
+  },
+  {
+    "review_id": "R125",
+    "product_id": "P1050",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 3
+  },
+  {
+    "review_id": "R126",
+    "product_id": "P1051",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R127",
+    "product_id": "P1051",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 3
+  },
+  {
+    "review_id": "R128",
+    "product_id": "P1052",
+    "text": "Decent kettle but the instructions could be clearer.",
+    "stars": 4
+  },
+  {
+    "review_id": "R129",
+    "product_id": "P1053",
+    "text": "Great value. Shipping was fast and the blender arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R130",
+    "product_id": "P1053",
+    "text": "Great value. Shipping was fast and the blender arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R131",
+    "product_id": "P1054",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R132",
+    "product_id": "P1054",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R133",
+    "product_id": "P1054",
+    "text": "Great value. Shipping was fast and the bin arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R134",
+    "product_id": "P1054",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R135",
+    "product_id": "P1055",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R136",
+    "product_id": "P1056",
+    "text": "Disappointed, the board stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R137",
+    "product_id": "P1056",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R138",
+    "product_id": "P1057",
+    "text": "Great value. Shipping was fast and the maker arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R139",
+    "product_id": "P1057",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R140",
+    "product_id": "P1058",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R141",
+    "product_id": "P1058",
+    "text": "Works exactly as described, bin quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R142",
+    "product_id": "P1059",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R143",
+    "product_id": "P1059",
+    "text": "Decent toaster but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R144",
+    "product_id": "P1060",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R145",
+    "product_id": "P1061",
+    "text": "Disappointed, the maker stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R146",
+    "product_id": "P1061",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R147",
+    "product_id": "P1061",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R148",
+    "product_id": "P1061",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R149",
+    "product_id": "P1062",
+    "text": "Works exactly as described, bin quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R150",
+    "product_id": "P1063",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R151",
+    "product_id": "P1063",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R152",
+    "product_id": "P1064",
+    "text": "Great value. Shipping was fast and the blender arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R153",
+    "product_id": "P1065",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R154",
+    "product_id": "P1065",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R155",
+    "product_id": "P1066",
+    "text": "Disappointed, the toaster stopped working within a week.",
+    "stars": 2
+  },
+  {
+    "review_id": "R156",
+    "product_id": "P1067",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R157",
+    "product_id": "P1067",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R158",
+    "product_id": "P1067",
+    "text": "Decent board but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R159",
+    "product_id": "P1067",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R160",
+    "product_id": "P1068",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 1
+  },
+  {
+    "review_id": "R161",
+    "product_id": "P1068",
+    "text": "Great value. Shipping was fast and the set arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R162",
+    "product_id": "P1068",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R163",
+    "product_id": "P1068",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R164",
+    "product_id": "P1069",
+    "text": "Decent kettle but the instructions could be clearer.",
+    "stars": 4
+  },
+  {
+    "review_id": "R165",
+    "product_id": "P1069",
+    "text": "Works exactly as described, kettle quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R166",
+    "product_id": "P1070",
+    "text": "Been using this bin for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R167",
+    "product_id": "P1070",
+    "text": "Disappointed, the bin stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R168",
+    "product_id": "P1071",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R169",
+    "product_id": "P1071",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 3
+  },
+  {
+    "review_id": "R170",
+    "product_id": "P1071",
+    "text": "Great value. Shipping was fast and the toaster arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R171",
+    "product_id": "P1072",
+    "text": "Been using this set for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R172",
+    "product_id": "P1073",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R173",
+    "product_id": "P1073",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R174",
+    "product_id": "P1074",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R175",
+    "product_id": "P1075",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R176",
+    "product_id": "P1075",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R177",
+    "product_id": "P1076",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R178",
+    "product_id": "P1076",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R179",
+    "product_id": "P1076",
+    "text": "Works exactly as described, fryer quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R180",
+    "product_id": "P1077",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R181",
+    "product_id": "P1077",
+    "text": "Been using this set for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R182",
+    "product_id": "P1077",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 3
+  },
+  {
+    "review_id": "R183",
+    "product_id": "P1077",
+    "text": "Disappointed, the set stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R184",
+    "product_id": "P1078",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R185",
+    "product_id": "P1079",
+    "text": "Been using this fryer for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R186",
+    "product_id": "P1079",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R187",
+    "product_id": "P1079",
+    "text": "Been using this fryer for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R188",
+    "product_id": "P1080",
+    "text": "Been using this moisturizer for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R189",
+    "product_id": "P1080",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 4
+  },
+  {
+    "review_id": "R190",
+    "product_id": "P1080",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R191",
+    "product_id": "P1081",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 4
+  },
+  {
+    "review_id": "R192",
+    "product_id": "P1082",
+    "text": "Great value. Shipping was fast and the serum arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R193",
+    "product_id": "P1082",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R194",
+    "product_id": "P1083",
+    "text": "Works exactly as described, oil quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R195",
+    "product_id": "P1083",
+    "text": "Great value. Shipping was fast and the oil arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R196",
+    "product_id": "P1083",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R197",
+    "product_id": "P1083",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R198",
+    "product_id": "P1084",
+    "text": "Great value. Shipping was fast and the lotion arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R199",
+    "product_id": "P1084",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R200",
+    "product_id": "P1085",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 5
+  },
+  {
+    "review_id": "R201",
+    "product_id": "P1085",
+    "text": "Works exactly as described, lotion quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R202",
+    "product_id": "P1085",
+    "text": "Great value. Shipping was fast and the lotion arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R203",
+    "product_id": "P1086",
+    "text": "Decent wash but the instructions could be clearer.",
+    "stars": 5
+  },
+  {
+    "review_id": "R204",
+    "product_id": "P1086",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 1
+  },
+  {
+    "review_id": "R205",
+    "product_id": "P1086",
+    "text": "Been using this wash for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R206",
+    "product_id": "P1087",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R207",
+    "product_id": "P1087",
+    "text": "Disappointed, the serum stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R208",
+    "product_id": "P1087",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 2
+  },
+  {
+    "review_id": "R209",
+    "product_id": "P1087",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R210",
+    "product_id": "P1088",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R211",
+    "product_id": "P1088",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R212",
+    "product_id": "P1088",
+    "text": "Works exactly as described, lotion quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R213",
+    "product_id": "P1089",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R214",
+    "product_id": "P1089",
+    "text": "Works exactly as described, balm quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R215",
+    "product_id": "P1089",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R216",
+    "product_id": "P1090",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R217",
+    "product_id": "P1090",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R218",
+    "product_id": "P1091",
+    "text": "Decent moisturizer but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R219",
+    "product_id": "P1091",
+    "text": "Works exactly as described, moisturizer quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R220",
+    "product_id": "P1092",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R221",
+    "product_id": "P1093",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R222",
+    "product_id": "P1093",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R223",
+    "product_id": "P1093",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R224",
+    "product_id": "P1093",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R225",
+    "product_id": "P1094",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R226",
+    "product_id": "P1094",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 5
+  },
+  {
+    "review_id": "R227",
+    "product_id": "P1094",
+    "text": "Great value. Shipping was fast and the serum arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R228",
+    "product_id": "P1094",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R229",
+    "product_id": "P1095",
+    "text": "Great value. Shipping was fast and the lotion arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R230",
+    "product_id": "P1095",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R231",
+    "product_id": "P1095",
+    "text": "Great value. Shipping was fast and the lotion arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R232",
+    "product_id": "P1096",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R233",
+    "product_id": "P1096",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R234",
+    "product_id": "P1096",
+    "text": "Disappointed, the moisturizer stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R235",
+    "product_id": "P1097",
+    "text": "Works exactly as described, moisturizer quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R236",
+    "product_id": "P1098",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R237",
+    "product_id": "P1098",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R238",
+    "product_id": "P1098",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 3
+  },
+  {
+    "review_id": "R239",
+    "product_id": "P1098",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R240",
+    "product_id": "P1099",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R241",
+    "product_id": "P1099",
+    "text": "Decent moisturizer but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R242",
+    "product_id": "P1100",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R243",
+    "product_id": "P1100",
+    "text": "Decent moisturizer but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R244",
+    "product_id": "P1100",
+    "text": "Disappointed, the moisturizer stopped working within a week.",
+    "stars": 4
+  },
+  {
+    "review_id": "R245",
+    "product_id": "P1100",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R246",
+    "product_id": "P1101",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R247",
+    "product_id": "P1101",
+    "text": "Works exactly as described, sunscreen quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R248",
+    "product_id": "P1102",
+    "text": "Works exactly as described, balm quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R249",
+    "product_id": "P1102",
+    "text": "Been using this balm for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R250",
+    "product_id": "P1103",
+    "text": "Decent shampoo but the instructions could be clearer.",
+    "stars": 3
+  },
+  {
+    "review_id": "R251",
+    "product_id": "P1103",
+    "text": "Disappointed, the shampoo stopped working within a week.",
+    "stars": 3
+  },
+  {
+    "review_id": "R252",
+    "product_id": "P1103",
+    "text": "Works exactly as described, shampoo quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R253",
+    "product_id": "P1103",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R254",
+    "product_id": "P1104",
+    "text": "Disappointed, the lotion stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R255",
+    "product_id": "P1104",
+    "text": "Been using this lotion for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R256",
+    "product_id": "P1104",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R257",
+    "product_id": "P1104",
+    "text": "Decent lotion but the instructions could be clearer.",
+    "stars": 3
+  },
+  {
+    "review_id": "R258",
+    "product_id": "P1105",
+    "text": "Been using this lotion for a few weeks now and it's held up really well.",
+    "stars": 2
+  },
+  {
+    "review_id": "R259",
+    "product_id": "P1105",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R260",
+    "product_id": "P1105",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 3
+  },
+  {
+    "review_id": "R261",
+    "product_id": "P1106",
+    "text": "Works exactly as described, moisturizer quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R262",
+    "product_id": "P1107",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R263",
+    "product_id": "P1107",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R264",
+    "product_id": "P1108",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 5
+  },
+  {
+    "review_id": "R265",
+    "product_id": "P1108",
+    "text": "Decent lotion but the instructions could be clearer.",
+    "stars": 3
+  },
+  {
+    "review_id": "R266",
+    "product_id": "P1108",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R267",
+    "product_id": "P1109",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R268",
+    "product_id": "P1110",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R269",
+    "product_id": "P1110",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 3
+  },
+  {
+    "review_id": "R270",
+    "product_id": "P1111",
+    "text": "Decent oil but the instructions could be clearer.",
+    "stars": 2
+  },
+  {
+    "review_id": "R271",
+    "product_id": "P1111",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R272",
+    "product_id": "P1111",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R273",
+    "product_id": "P1112",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 5
+  },
+  {
+    "review_id": "R274",
+    "product_id": "P1112",
+    "text": "Disappointed, the sunscreen stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R275",
+    "product_id": "P1113",
+    "text": "Great value. Shipping was fast and the serum arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R276",
+    "product_id": "P1113",
+    "text": "Disappointed, the serum stopped working within a week.",
+    "stars": 1
+  },
+  {
+    "review_id": "R277",
+    "product_id": "P1113",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R278",
+    "product_id": "P1113",
+    "text": "Been using this serum for a few weeks now and it's held up really well.",
+    "stars": 2
+  },
+  {
+    "review_id": "R279",
+    "product_id": "P1114",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 1
+  },
+  {
+    "review_id": "R280",
+    "product_id": "P1114",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 5
+  },
+  {
+    "review_id": "R281",
+    "product_id": "P1114",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R282",
+    "product_id": "P1115",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R283",
+    "product_id": "P1116",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R284",
+    "product_id": "P1116",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R285",
+    "product_id": "P1116",
+    "text": "Works exactly as described, shampoo quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R286",
+    "product_id": "P1116",
+    "text": "Works exactly as described, shampoo quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R287",
+    "product_id": "P1117",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 1
+  },
+  {
+    "review_id": "R288",
+    "product_id": "P1117",
+    "text": "Disappointed, the wash stopped working within a week.",
+    "stars": 4
+  },
+  {
+    "review_id": "R289",
+    "product_id": "P1117",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R290",
+    "product_id": "P1118",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R291",
+    "product_id": "P1118",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R292",
+    "product_id": "P1119",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R293",
+    "product_id": "P1119",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R294",
+    "product_id": "P1119",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R295",
+    "product_id": "P1119",
+    "text": "Been using this wash for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R296",
+    "product_id": "P1120",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 5
+  },
+  {
+    "review_id": "R297",
+    "product_id": "P1121",
+    "text": "Been using this gloves for a few weeks now and it's held up really well.",
+    "stars": 2
+  },
+  {
+    "review_id": "R298",
+    "product_id": "P1121",
+    "text": "Been using this gloves for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R299",
+    "product_id": "P1121",
+    "text": "Works exactly as described, gloves quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R300",
+    "product_id": "P1121",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R301",
+    "product_id": "P1122",
+    "text": "Works exactly as described, gloves quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R302",
+    "product_id": "P1123",
+    "text": "Works exactly as described, bands quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R303",
+    "product_id": "P1124",
+    "text": "Been using this bands for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R304",
+    "product_id": "P1125",
+    "text": "Decent backpack but the instructions could be clearer.",
+    "stars": 2
+  },
+  {
+    "review_id": "R305",
+    "product_id": "P1125",
+    "text": "Great value. Shipping was fast and the backpack arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R306",
+    "product_id": "P1126",
+    "text": "Great value. Shipping was fast and the shoes arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R307",
+    "product_id": "P1126",
+    "text": "Been using this shoes for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R308",
+    "product_id": "P1126",
+    "text": "Great value. Shipping was fast and the shoes arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R309",
+    "product_id": "P1127",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  },
+  {
+    "review_id": "R310",
+    "product_id": "P1128",
+    "text": "Works exactly as described, tent quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R311",
+    "product_id": "P1128",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 4
+  },
+  {
+    "review_id": "R312",
+    "product_id": "P1128",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R313",
+    "product_id": "P1128",
+    "text": "Great value. Shipping was fast and the tent arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R314",
+    "product_id": "P1129",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R315",
+    "product_id": "P1129",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R316",
+    "product_id": "P1130",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 4
+  },
+  {
+    "review_id": "R317",
+    "product_id": "P1130",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 5
+  },
+  {
+    "review_id": "R318",
+    "product_id": "P1130",
+    "text": "Been using this mat for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R319",
+    "product_id": "P1130",
+    "text": "Works exactly as described, mat quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R320",
+    "product_id": "P1131",
+    "text": "Been using this gloves for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R321",
+    "product_id": "P1131",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R322",
+    "product_id": "P1131",
+    "text": "Works exactly as described, gloves quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R323",
+    "product_id": "P1132",
+    "text": "Great value. Shipping was fast and the bands arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R324",
+    "product_id": "P1132",
+    "text": "Disappointed, the bands stopped working within a week.",
+    "stars": 2
+  },
+  {
+    "review_id": "R325",
+    "product_id": "P1133",
+    "text": "Disappointed, the shoes stopped working within a week.",
+    "stars": 4
+  },
+  {
+    "review_id": "R326",
+    "product_id": "P1133",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 5
+  },
+  {
+    "review_id": "R327",
+    "product_id": "P1134",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 5
+  },
+  {
+    "review_id": "R328",
+    "product_id": "P1134",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R329",
+    "product_id": "P1135",
+    "text": "Great value. Shipping was fast and the mat arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R330",
+    "product_id": "P1135",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R331",
+    "product_id": "P1135",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R332",
+    "product_id": "P1135",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 3
+  },
+  {
+    "review_id": "R333",
+    "product_id": "P1136",
+    "text": "Been using this mat for a few weeks now and it's held up really well.",
+    "stars": 2
+  },
+  {
+    "review_id": "R334",
+    "product_id": "P1136",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R335",
+    "product_id": "P1136",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R336",
+    "product_id": "P1136",
+    "text": "Great value. Shipping was fast and the mat arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R337",
+    "product_id": "P1137",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R338",
+    "product_id": "P1137",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R339",
+    "product_id": "P1137",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 4
+  },
+  {
+    "review_id": "R340",
+    "product_id": "P1137",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 2
+  },
+  {
+    "review_id": "R341",
+    "product_id": "P1138",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 2
+  },
+  {
+    "review_id": "R342",
+    "product_id": "P1138",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 1
+  },
+  {
+    "review_id": "R343",
+    "product_id": "P1139",
+    "text": "Decent bands but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R344",
+    "product_id": "P1140",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R345",
+    "product_id": "P1141",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R346",
+    "product_id": "P1141",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R347",
+    "product_id": "P1142",
+    "text": "Decent gloves but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R348",
+    "product_id": "P1142",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R349",
+    "product_id": "P1142",
+    "text": "Great value. Shipping was fast and the gloves arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R350",
+    "product_id": "P1142",
+    "text": "Disappointed, the gloves stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R351",
+    "product_id": "P1143",
+    "text": "Decent mat but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R352",
+    "product_id": "P1143",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 2
+  },
+  {
+    "review_id": "R353",
+    "product_id": "P1143",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R354",
+    "product_id": "P1143",
+    "text": "Great value. Shipping was fast and the mat arrived well packaged.",
+    "stars": 3
+  },
+  {
+    "review_id": "R355",
+    "product_id": "P1144",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R356",
+    "product_id": "P1144",
+    "text": "Been using this bottle for a few weeks now and it's held up really well.",
+    "stars": 3
+  },
+  {
+    "review_id": "R357",
+    "product_id": "P1144",
+    "text": "Decent bottle but the instructions could be clearer.",
+    "stars": 1
+  },
+  {
+    "review_id": "R358",
+    "product_id": "P1144",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 4
+  },
+  {
+    "review_id": "R359",
+    "product_id": "P1145",
+    "text": "Works exactly as described, backpack quality feels premium for the price.",
+    "stars": 2
+  },
+  {
+    "review_id": "R360",
+    "product_id": "P1145",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 3
+  },
+  {
+    "review_id": "R361",
+    "product_id": "P1145",
+    "text": "Works exactly as described, backpack quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R362",
+    "product_id": "P1145",
+    "text": "Disappointed, the backpack stopped working within a week.",
+    "stars": 2
+  },
+  {
+    "review_id": "R363",
+    "product_id": "P1146",
+    "text": "Works exactly as described, bands quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R364",
+    "product_id": "P1146",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 1
+  },
+  {
+    "review_id": "R365",
+    "product_id": "P1146",
+    "text": "Great value. Shipping was fast and the bands arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R366",
+    "product_id": "P1146",
+    "text": "Had to return it, didn't fit my needs.",
+    "stars": 2
+  },
+  {
+    "review_id": "R367",
+    "product_id": "P1147",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 2
+  },
+  {
+    "review_id": "R368",
+    "product_id": "P1147",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R369",
+    "product_id": "P1147",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 3
+  },
+  {
+    "review_id": "R370",
+    "product_id": "P1147",
+    "text": "Been using this shoes for a few weeks now and it's held up really well.",
+    "stars": 1
+  },
+  {
+    "review_id": "R371",
+    "product_id": "P1148",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R372",
+    "product_id": "P1148",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 5
+  },
+  {
+    "review_id": "R373",
+    "product_id": "P1148",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 4
+  },
+  {
+    "review_id": "R374",
+    "product_id": "P1149",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R375",
+    "product_id": "P1149",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R376",
+    "product_id": "P1149",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 2
+  },
+  {
+    "review_id": "R377",
+    "product_id": "P1150",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 3
+  },
+  {
+    "review_id": "R378",
+    "product_id": "P1150",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 1
+  },
+  {
+    "review_id": "R379",
+    "product_id": "P1150",
+    "text": "Been using this bottle for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R380",
+    "product_id": "P1150",
+    "text": "It's fine \u2014 nothing special but does the job.",
+    "stars": 2
+  },
+  {
+    "review_id": "R381",
+    "product_id": "P1151",
+    "text": "Works exactly as described, jacket quality feels premium for the price.",
+    "stars": 1
+  },
+  {
+    "review_id": "R382",
+    "product_id": "P1151",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R383",
+    "product_id": "P1151",
+    "text": "Great value. Shipping was fast and the jacket arrived well packaged.",
+    "stars": 1
+  },
+  {
+    "review_id": "R384",
+    "product_id": "P1151",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R385",
+    "product_id": "P1152",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 4
+  },
+  {
+    "review_id": "R386",
+    "product_id": "P1152",
+    "text": "Works exactly as described, gloves quality feels premium for the price.",
+    "stars": 3
+  },
+  {
+    "review_id": "R387",
+    "product_id": "P1152",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 5
+  },
+  {
+    "review_id": "R388",
+    "product_id": "P1152",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 1
+  },
+  {
+    "review_id": "R389",
+    "product_id": "P1153",
+    "text": "Works exactly as described, jacket quality feels premium for the price.",
+    "stars": 5
+  },
+  {
+    "review_id": "R390",
+    "product_id": "P1153",
+    "text": "Disappointed, the jacket stopped working within a week.",
+    "stars": 5
+  },
+  {
+    "review_id": "R391",
+    "product_id": "P1153",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 2
+  },
+  {
+    "review_id": "R392",
+    "product_id": "P1154",
+    "text": "Great value. Shipping was fast and the gloves arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R393",
+    "product_id": "P1154",
+    "text": "Been using this gloves for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R394",
+    "product_id": "P1155",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 1
+  },
+  {
+    "review_id": "R395",
+    "product_id": "P1155",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R396",
+    "product_id": "P1155",
+    "text": "Been using this jacket for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R397",
+    "product_id": "P1156",
+    "text": "Works exactly as described, gloves quality feels premium for the price.",
+    "stars": 4
+  },
+  {
+    "review_id": "R398",
+    "product_id": "P1157",
+    "text": "Good for the price, though I expected slightly better battery life / durability.",
+    "stars": 3
+  },
+  {
+    "review_id": "R399",
+    "product_id": "P1157",
+    "text": "Exceeded my expectations, would buy again.",
+    "stars": 5
+  },
+  {
+    "review_id": "R400",
+    "product_id": "P1157",
+    "text": "Great value. Shipping was fast and the tent arrived well packaged.",
+    "stars": 5
+  },
+  {
+    "review_id": "R401",
+    "product_id": "P1158",
+    "text": "Been using this bands for a few weeks now and it's held up really well.",
+    "stars": 4
+  },
+  {
+    "review_id": "R402",
+    "product_id": "P1158",
+    "text": "Not as described, quality feels cheaper than expected.",
+    "stars": 4
+  },
+  {
+    "review_id": "R403",
+    "product_id": "P1159",
+    "text": "Great value. Shipping was fast and the mat arrived well packaged.",
+    "stars": 4
+  },
+  {
+    "review_id": "R404",
+    "product_id": "P1159",
+    "text": "Solid build quality, does what it promises.",
+    "stars": 2
+  }
+]

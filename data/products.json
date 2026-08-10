@@ -1,0 +1,1602 @@
+[
+  {
+    "product_id": "P1000",
+    "title": "Lumen Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "description": "The Lumen Noise-Cancelling Headphones is a noise-cancelling headphones designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 93.38,
+    "rating": 3.4,
+    "review_count": 424,
+    "image_placeholder": "https://picsum.photos/seed/1000/400/400"
+  },
+  {
+    "product_id": "P1001",
+    "title": "Orbit Noise-Cancelling SSD Drive",
+    "category": "Electronics",
+    "description": "The Orbit Noise-Cancelling SSD Drive is a noise-cancelling ssd drive designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 24.06,
+    "rating": 3.2,
+    "review_count": 957,
+    "image_placeholder": "https://picsum.photos/seed/1001/400/400"
+  },
+  {
+    "product_id": "P1002",
+    "title": "Aurora Wireless Monitor",
+    "category": "Electronics",
+    "description": "The Aurora Wireless Monitor is a wireless monitor designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 219.07,
+    "rating": 4.4,
+    "review_count": 1723,
+    "image_placeholder": "https://picsum.photos/seed/1002/400/400"
+  },
+  {
+    "product_id": "P1003",
+    "title": "Aurora Bluetooth Headphones",
+    "category": "Electronics",
+    "description": "The Aurora Bluetooth Headphones is a bluetooth headphones designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 213.97,
+    "rating": 3.7,
+    "review_count": 641,
+    "image_placeholder": "https://picsum.photos/seed/1003/400/400"
+  },
+  {
+    "product_id": "P1004",
+    "title": "Orbit Noise-Cancelling Earbuds",
+    "category": "Electronics",
+    "description": "The Orbit Noise-Cancelling Earbuds is a noise-cancelling earbuds designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 42.56,
+    "rating": 4.7,
+    "review_count": 2477,
+    "image_placeholder": "https://picsum.photos/seed/1004/400/400"
+  },
+  {
+    "product_id": "P1005",
+    "title": "Zenith Compact Monitor",
+    "category": "Electronics",
+    "description": "The Zenith Compact Monitor is a compact monitor designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 292.34,
+    "rating": 3.8,
+    "review_count": 2266,
+    "image_placeholder": "https://picsum.photos/seed/1005/400/400"
+  },
+  {
+    "product_id": "P1006",
+    "title": "Aurora Smart SSD Drive",
+    "category": "Electronics",
+    "description": "The Aurora Smart SSD Drive is a smart ssd drive designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 215.8,
+    "rating": 3.1,
+    "review_count": 938,
+    "image_placeholder": "https://picsum.photos/seed/1006/400/400"
+  },
+  {
+    "product_id": "P1007",
+    "title": "Orbit Rechargeable Earbuds",
+    "category": "Electronics",
+    "description": "The Orbit Rechargeable Earbuds is a rechargeable earbuds designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 94.22,
+    "rating": 4.3,
+    "review_count": 1499,
+    "image_placeholder": "https://picsum.photos/seed/1007/400/400"
+  },
+  {
+    "product_id": "P1008",
+    "title": "Lumen Smart Webcam",
+    "category": "Electronics",
+    "description": "The Lumen Smart Webcam is a smart webcam designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 91.09,
+    "rating": 4.9,
+    "review_count": 297,
+    "image_placeholder": "https://picsum.photos/seed/1008/400/400"
+  },
+  {
+    "product_id": "P1009",
+    "title": "Lumen Portable Monitor",
+    "category": "Electronics",
+    "description": "The Lumen Portable Monitor is a portable monitor designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 84.77,
+    "rating": 3.9,
+    "review_count": 1110,
+    "image_placeholder": "https://picsum.photos/seed/1009/400/400"
+  },
+  {
+    "product_id": "P1010",
+    "title": "Zenith Rechargeable Mouse",
+    "category": "Electronics",
+    "description": "The Zenith Rechargeable Mouse is a rechargeable mouse designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 80.28,
+    "rating": 3.1,
+    "review_count": 1297,
+    "image_placeholder": "https://picsum.photos/seed/1010/400/400"
+  },
+  {
+    "product_id": "P1011",
+    "title": "Vertex Noise-Cancelling Webcam",
+    "category": "Electronics",
+    "description": "The Vertex Noise-Cancelling Webcam is a noise-cancelling webcam designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 264.76,
+    "rating": 3.6,
+    "review_count": 2049,
+    "image_placeholder": "https://picsum.photos/seed/1011/400/400"
+  },
+  {
+    "product_id": "P1012",
+    "title": "Nexus Compact Speaker",
+    "category": "Electronics",
+    "description": "The Nexus Compact Speaker is a compact speaker designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 54.79,
+    "rating": 4.5,
+    "review_count": 2212,
+    "image_placeholder": "https://picsum.photos/seed/1012/400/400"
+  },
+  {
+    "product_id": "P1013",
+    "title": "Orbit HD SSD Drive",
+    "category": "Electronics",
+    "description": "The Orbit HD SSD Drive is a hd ssd drive designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 118.17,
+    "rating": 5.0,
+    "review_count": 571,
+    "image_placeholder": "https://picsum.photos/seed/1013/400/400"
+  },
+  {
+    "product_id": "P1014",
+    "title": "Zenith Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "description": "The Zenith Noise-Cancelling Headphones is a noise-cancelling headphones designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 58.56,
+    "rating": 3.3,
+    "review_count": 1734,
+    "image_placeholder": "https://picsum.photos/seed/1014/400/400"
+  },
+  {
+    "product_id": "P1015",
+    "title": "Vertex HD Charger",
+    "category": "Electronics",
+    "description": "The Vertex HD Charger is a hd charger designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 298.89,
+    "rating": 4.1,
+    "review_count": 2271,
+    "image_placeholder": "https://picsum.photos/seed/1015/400/400"
+  },
+  {
+    "product_id": "P1016",
+    "title": "Nexus Noise-Cancelling Monitor",
+    "category": "Electronics",
+    "description": "The Nexus Noise-Cancelling Monitor is a noise-cancelling monitor designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 234.05,
+    "rating": 3.7,
+    "review_count": 1207,
+    "image_placeholder": "https://picsum.photos/seed/1016/400/400"
+  },
+  {
+    "product_id": "P1017",
+    "title": "Lumen Compact Headphones",
+    "category": "Electronics",
+    "description": "The Lumen Compact Headphones is a compact headphones designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 264.62,
+    "rating": 3.5,
+    "review_count": 2055,
+    "image_placeholder": "https://picsum.photos/seed/1017/400/400"
+  },
+  {
+    "product_id": "P1018",
+    "title": "Lumen Noise-Cancelling Keyboard",
+    "category": "Electronics",
+    "description": "The Lumen Noise-Cancelling Keyboard is a noise-cancelling keyboard designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 159.68,
+    "rating": 3.4,
+    "review_count": 1536,
+    "image_placeholder": "https://picsum.photos/seed/1018/400/400"
+  },
+  {
+    "product_id": "P1019",
+    "title": "Nexus Wireless SSD Drive",
+    "category": "Electronics",
+    "description": "The Nexus Wireless SSD Drive is a wireless ssd drive designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 154.25,
+    "rating": 3.2,
+    "review_count": 1491,
+    "image_placeholder": "https://picsum.photos/seed/1019/400/400"
+  },
+  {
+    "product_id": "P1020",
+    "title": "Vertex Wireless Webcam",
+    "category": "Electronics",
+    "description": "The Vertex Wireless Webcam is a wireless webcam designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 284.88,
+    "rating": 3.2,
+    "review_count": 1995,
+    "image_placeholder": "https://picsum.photos/seed/1020/400/400"
+  },
+  {
+    "product_id": "P1021",
+    "title": "Lumen Portable Speaker",
+    "category": "Electronics",
+    "description": "The Lumen Portable Speaker is a portable speaker designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 150.46,
+    "rating": 4.1,
+    "review_count": 1090,
+    "image_placeholder": "https://picsum.photos/seed/1021/400/400"
+  },
+  {
+    "product_id": "P1022",
+    "title": "Vertex HD Webcam",
+    "category": "Electronics",
+    "description": "The Vertex HD Webcam is a hd webcam designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 230.25,
+    "rating": 4.4,
+    "review_count": 1281,
+    "image_placeholder": "https://picsum.photos/seed/1022/400/400"
+  },
+  {
+    "product_id": "P1023",
+    "title": "Vertex Smart Power Bank",
+    "category": "Electronics",
+    "description": "The Vertex Smart Power Bank is a smart power bank designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 143.67,
+    "rating": 3.5,
+    "review_count": 267,
+    "image_placeholder": "https://picsum.photos/seed/1023/400/400"
+  },
+  {
+    "product_id": "P1024",
+    "title": "Aurora Rechargeable SSD Drive",
+    "category": "Electronics",
+    "description": "The Aurora Rechargeable SSD Drive is a rechargeable ssd drive designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 17.05,
+    "rating": 4.4,
+    "review_count": 246,
+    "image_placeholder": "https://picsum.photos/seed/1024/400/400"
+  },
+  {
+    "product_id": "P1025",
+    "title": "Zenith Wireless Mouse",
+    "category": "Electronics",
+    "description": "The Zenith Wireless Mouse is a wireless mouse designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 161.53,
+    "rating": 3.6,
+    "review_count": 1993,
+    "image_placeholder": "https://picsum.photos/seed/1025/400/400"
+  },
+  {
+    "product_id": "P1026",
+    "title": "Vertex Portable SSD Drive",
+    "category": "Electronics",
+    "description": "The Vertex Portable SSD Drive is a portable ssd drive designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 149.71,
+    "rating": 4.6,
+    "review_count": 1672,
+    "image_placeholder": "https://picsum.photos/seed/1026/400/400"
+  },
+  {
+    "product_id": "P1027",
+    "title": "Nexus Noise-Cancelling Charger",
+    "category": "Electronics",
+    "description": "The Nexus Noise-Cancelling Charger is a noise-cancelling charger designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 135.72,
+    "rating": 3.9,
+    "review_count": 226,
+    "image_placeholder": "https://picsum.photos/seed/1027/400/400"
+  },
+  {
+    "product_id": "P1028",
+    "title": "Orbit Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "description": "The Orbit Noise-Cancelling Headphones is a noise-cancelling headphones designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 222.54,
+    "rating": 4.6,
+    "review_count": 452,
+    "image_placeholder": "https://picsum.photos/seed/1028/400/400"
+  },
+  {
+    "product_id": "P1029",
+    "title": "Orbit Rechargeable Monitor",
+    "category": "Electronics",
+    "description": "The Orbit Rechargeable Monitor is a rechargeable monitor designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 54.95,
+    "rating": 3.4,
+    "review_count": 1899,
+    "image_placeholder": "https://picsum.photos/seed/1029/400/400"
+  },
+  {
+    "product_id": "P1030",
+    "title": "Zenith Compact Monitor",
+    "category": "Electronics",
+    "description": "The Zenith Compact Monitor is a compact monitor designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 29.42,
+    "rating": 5.0,
+    "review_count": 65,
+    "image_placeholder": "https://picsum.photos/seed/1030/400/400"
+  },
+  {
+    "product_id": "P1031",
+    "title": "Orbit Portable Charger",
+    "category": "Electronics",
+    "description": "The Orbit Portable Charger is a portable charger designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 152.19,
+    "rating": 4.7,
+    "review_count": 245,
+    "image_placeholder": "https://picsum.photos/seed/1031/400/400"
+  },
+  {
+    "product_id": "P1032",
+    "title": "Nexus Wireless Charger",
+    "category": "Electronics",
+    "description": "The Nexus Wireless Charger is a wireless charger designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 279.06,
+    "rating": 4.6,
+    "review_count": 1173,
+    "image_placeholder": "https://picsum.photos/seed/1032/400/400"
+  },
+  {
+    "product_id": "P1033",
+    "title": "Aurora Compact Speaker",
+    "category": "Electronics",
+    "description": "The Aurora Compact Speaker is a compact speaker designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 99.56,
+    "rating": 4.9,
+    "review_count": 2377,
+    "image_placeholder": "https://picsum.photos/seed/1033/400/400"
+  },
+  {
+    "product_id": "P1034",
+    "title": "Zenith Wireless Mouse",
+    "category": "Electronics",
+    "description": "The Zenith Wireless Mouse is a wireless mouse designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 29.29,
+    "rating": 4.0,
+    "review_count": 2180,
+    "image_placeholder": "https://picsum.photos/seed/1034/400/400"
+  },
+  {
+    "product_id": "P1035",
+    "title": "Zenith Noise-Cancelling Speaker",
+    "category": "Electronics",
+    "description": "The Zenith Noise-Cancelling Speaker is a noise-cancelling speaker designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 184.59,
+    "rating": 4.4,
+    "review_count": 968,
+    "image_placeholder": "https://picsum.photos/seed/1035/400/400"
+  },
+  {
+    "product_id": "P1036",
+    "title": "Vertex Rechargeable SSD Drive",
+    "category": "Electronics",
+    "description": "The Vertex Rechargeable SSD Drive is a rechargeable ssd drive designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 26.33,
+    "rating": 3.2,
+    "review_count": 2395,
+    "image_placeholder": "https://picsum.photos/seed/1036/400/400"
+  },
+  {
+    "product_id": "P1037",
+    "title": "Aurora Smart Keyboard",
+    "category": "Electronics",
+    "description": "The Aurora Smart Keyboard is a smart keyboard designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 205.87,
+    "rating": 3.6,
+    "review_count": 1092,
+    "image_placeholder": "https://picsum.photos/seed/1037/400/400"
+  },
+  {
+    "product_id": "P1038",
+    "title": "Nexus Bluetooth Power Bank",
+    "category": "Electronics",
+    "description": "The Nexus Bluetooth Power Bank is a bluetooth power bank designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 279.77,
+    "rating": 4.9,
+    "review_count": 43,
+    "image_placeholder": "https://picsum.photos/seed/1038/400/400"
+  },
+  {
+    "product_id": "P1039",
+    "title": "Vertex Noise-Cancelling Earbuds",
+    "category": "Electronics",
+    "description": "The Vertex Noise-Cancelling Earbuds is a noise-cancelling earbuds designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 75.75,
+    "rating": 3.5,
+    "review_count": 1434,
+    "image_placeholder": "https://picsum.photos/seed/1039/400/400"
+  },
+  {
+    "product_id": "P1040",
+    "title": "KitchenPro Ceramic Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Ceramic Cutting Board is a ceramic cutting board designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 71.35,
+    "rating": 4.1,
+    "review_count": 1244,
+    "image_placeholder": "https://picsum.photos/seed/1040/400/400"
+  },
+  {
+    "product_id": "P1041",
+    "title": "Hearth&Co Non-Stick Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The Hearth&Co Non-Stick Cutting Board is a non-stick cutting board designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 141.45,
+    "rating": 3.3,
+    "review_count": 477,
+    "image_placeholder": "https://picsum.photos/seed/1041/400/400"
+  },
+  {
+    "product_id": "P1042",
+    "title": "Homely Electric Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The Homely Electric Cutting Board is a electric cutting board designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 94.68,
+    "rating": 4.4,
+    "review_count": 838,
+    "image_placeholder": "https://picsum.photos/seed/1042/400/400"
+  },
+  {
+    "product_id": "P1043",
+    "title": "Homely Foldable Toaster",
+    "category": "Home & Kitchen",
+    "description": "The Homely Foldable Toaster is a foldable toaster designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 136.75,
+    "rating": 4.7,
+    "review_count": 383,
+    "image_placeholder": "https://picsum.photos/seed/1043/400/400"
+  },
+  {
+    "product_id": "P1044",
+    "title": "Hearth&Co Foldable Air Fryer",
+    "category": "Home & Kitchen",
+    "description": "The Hearth&Co Foldable Air Fryer is a foldable air fryer designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 56.7,
+    "rating": 3.3,
+    "review_count": 1077,
+    "image_placeholder": "https://picsum.photos/seed/1044/400/400"
+  },
+  {
+    "product_id": "P1045",
+    "title": "Trellis Digital Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Digital Storage Bin is a digital storage bin designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 11.35,
+    "rating": 3.2,
+    "review_count": 615,
+    "image_placeholder": "https://picsum.photos/seed/1045/400/400"
+  },
+  {
+    "product_id": "P1046",
+    "title": "CookWell Ceramic Knife Set",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Ceramic Knife Set is a ceramic knife set designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 27.84,
+    "rating": 3.6,
+    "review_count": 168,
+    "image_placeholder": "https://picsum.photos/seed/1046/400/400"
+  },
+  {
+    "product_id": "P1047",
+    "title": "Homely Adjustable Blender",
+    "category": "Home & Kitchen",
+    "description": "The Homely Adjustable Blender is a adjustable blender designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 119.22,
+    "rating": 4.8,
+    "review_count": 1669,
+    "image_placeholder": "https://picsum.photos/seed/1047/400/400"
+  },
+  {
+    "product_id": "P1048",
+    "title": "KitchenPro Electric Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Electric Coffee Maker is a electric coffee maker designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 146.67,
+    "rating": 4.6,
+    "review_count": 1693,
+    "image_placeholder": "https://picsum.photos/seed/1048/400/400"
+  },
+  {
+    "product_id": "P1049",
+    "title": "KitchenPro Ceramic Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Ceramic Storage Bin is a ceramic storage bin designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 47.35,
+    "rating": 4.6,
+    "review_count": 447,
+    "image_placeholder": "https://picsum.photos/seed/1049/400/400"
+  },
+  {
+    "product_id": "P1050",
+    "title": "KitchenPro Digital Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Digital Coffee Maker is a digital coffee maker designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 124.32,
+    "rating": 3.9,
+    "review_count": 1255,
+    "image_placeholder": "https://picsum.photos/seed/1050/400/400"
+  },
+  {
+    "product_id": "P1051",
+    "title": "CookWell Non-Stick Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Non-Stick Coffee Maker is a non-stick coffee maker designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 55.96,
+    "rating": 4.7,
+    "review_count": 1148,
+    "image_placeholder": "https://picsum.photos/seed/1051/400/400"
+  },
+  {
+    "product_id": "P1052",
+    "title": "Hearth&Co Insulated Kettle",
+    "category": "Home & Kitchen",
+    "description": "The Hearth&Co Insulated Kettle is a insulated kettle designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 26.15,
+    "rating": 4.9,
+    "review_count": 736,
+    "image_placeholder": "https://picsum.photos/seed/1052/400/400"
+  },
+  {
+    "product_id": "P1053",
+    "title": "Trellis Non-Stick Blender",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Non-Stick Blender is a non-stick blender designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 70.84,
+    "rating": 4.5,
+    "review_count": 1289,
+    "image_placeholder": "https://picsum.photos/seed/1053/400/400"
+  },
+  {
+    "product_id": "P1054",
+    "title": "Trellis Stainless Steel Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Stainless Steel Storage Bin is a stainless steel storage bin designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 36.61,
+    "rating": 3.1,
+    "review_count": 1791,
+    "image_placeholder": "https://picsum.photos/seed/1054/400/400"
+  },
+  {
+    "product_id": "P1055",
+    "title": "CookWell Adjustable Kettle",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Adjustable Kettle is a adjustable kettle designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 19.8,
+    "rating": 4.3,
+    "review_count": 1357,
+    "image_placeholder": "https://picsum.photos/seed/1055/400/400"
+  },
+  {
+    "product_id": "P1056",
+    "title": "Trellis Stainless Steel Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Stainless Steel Cutting Board is a stainless steel cutting board designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 53.3,
+    "rating": 3.8,
+    "review_count": 1653,
+    "image_placeholder": "https://picsum.photos/seed/1056/400/400"
+  },
+  {
+    "product_id": "P1057",
+    "title": "CookWell Electric Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Electric Coffee Maker is a electric coffee maker designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 103.09,
+    "rating": 3.8,
+    "review_count": 717,
+    "image_placeholder": "https://picsum.photos/seed/1057/400/400"
+  },
+  {
+    "product_id": "P1058",
+    "title": "Trellis Foldable Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Foldable Storage Bin is a foldable storage bin designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 126.72,
+    "rating": 3.6,
+    "review_count": 865,
+    "image_placeholder": "https://picsum.photos/seed/1058/400/400"
+  },
+  {
+    "product_id": "P1059",
+    "title": "CookWell Ceramic Toaster",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Ceramic Toaster is a ceramic toaster designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for travel.",
+    "price": 71.9,
+    "rating": 3.4,
+    "review_count": 1943,
+    "image_placeholder": "https://picsum.photos/seed/1059/400/400"
+  },
+  {
+    "product_id": "P1060",
+    "title": "Trellis Stainless Steel Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Stainless Steel Cutting Board is a stainless steel cutting board designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 102.94,
+    "rating": 4.2,
+    "review_count": 387,
+    "image_placeholder": "https://picsum.photos/seed/1060/400/400"
+  },
+  {
+    "product_id": "P1061",
+    "title": "KitchenPro Foldable Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Foldable Coffee Maker is a foldable coffee maker designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 30.63,
+    "rating": 3.1,
+    "review_count": 1951,
+    "image_placeholder": "https://picsum.photos/seed/1061/400/400"
+  },
+  {
+    "product_id": "P1062",
+    "title": "Trellis Digital Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Digital Storage Bin is a digital storage bin designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 37.22,
+    "rating": 4.4,
+    "review_count": 2029,
+    "image_placeholder": "https://picsum.photos/seed/1062/400/400"
+  },
+  {
+    "product_id": "P1063",
+    "title": "Hearth&Co Electric Air Fryer",
+    "category": "Home & Kitchen",
+    "description": "The Hearth&Co Electric Air Fryer is a electric air fryer designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 118.98,
+    "rating": 3.4,
+    "review_count": 2126,
+    "image_placeholder": "https://picsum.photos/seed/1063/400/400"
+  },
+  {
+    "product_id": "P1064",
+    "title": "CookWell Adjustable Blender",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Adjustable Blender is a adjustable blender designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 28.67,
+    "rating": 3.9,
+    "review_count": 2180,
+    "image_placeholder": "https://picsum.photos/seed/1064/400/400"
+  },
+  {
+    "product_id": "P1065",
+    "title": "Trellis Ceramic Toaster",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Ceramic Toaster is a ceramic toaster designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 124.1,
+    "rating": 4.8,
+    "review_count": 1752,
+    "image_placeholder": "https://picsum.photos/seed/1065/400/400"
+  },
+  {
+    "product_id": "P1066",
+    "title": "CookWell Electric Toaster",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Electric Toaster is a electric toaster designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 46.29,
+    "rating": 3.5,
+    "review_count": 1140,
+    "image_placeholder": "https://picsum.photos/seed/1066/400/400"
+  },
+  {
+    "product_id": "P1067",
+    "title": "CookWell Adjustable Cutting Board",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Adjustable Cutting Board is a adjustable cutting board designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 20.85,
+    "rating": 3.6,
+    "review_count": 1117,
+    "image_placeholder": "https://picsum.photos/seed/1067/400/400"
+  },
+  {
+    "product_id": "P1068",
+    "title": "KitchenPro Stainless Steel Knife Set",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Stainless Steel Knife Set is a stainless steel knife set designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 42.38,
+    "rating": 4.4,
+    "review_count": 881,
+    "image_placeholder": "https://picsum.photos/seed/1068/400/400"
+  },
+  {
+    "product_id": "P1069",
+    "title": "Trellis Insulated Kettle",
+    "category": "Home & Kitchen",
+    "description": "The Trellis Insulated Kettle is a insulated kettle designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 75.23,
+    "rating": 3.1,
+    "review_count": 1725,
+    "image_placeholder": "https://picsum.photos/seed/1069/400/400"
+  },
+  {
+    "product_id": "P1070",
+    "title": "CookWell Non-Stick Storage Bin",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Non-Stick Storage Bin is a non-stick storage bin designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 10.83,
+    "rating": 3.7,
+    "review_count": 1602,
+    "image_placeholder": "https://picsum.photos/seed/1070/400/400"
+  },
+  {
+    "product_id": "P1071",
+    "title": "KitchenPro Adjustable Toaster",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Adjustable Toaster is a adjustable toaster designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 48.21,
+    "rating": 4.0,
+    "review_count": 1597,
+    "image_placeholder": "https://picsum.photos/seed/1071/400/400"
+  },
+  {
+    "product_id": "P1072",
+    "title": "CookWell Insulated Knife Set",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Insulated Knife Set is a insulated knife set designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 138.74,
+    "rating": 5.0,
+    "review_count": 2192,
+    "image_placeholder": "https://picsum.photos/seed/1072/400/400"
+  },
+  {
+    "product_id": "P1073",
+    "title": "CookWell Non-Stick Blender",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Non-Stick Blender is a non-stick blender designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 29.0,
+    "rating": 3.9,
+    "review_count": 210,
+    "image_placeholder": "https://picsum.photos/seed/1073/400/400"
+  },
+  {
+    "product_id": "P1074",
+    "title": "CookWell Ceramic Coffee Maker",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Ceramic Coffee Maker is a ceramic coffee maker designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 55.76,
+    "rating": 4.5,
+    "review_count": 1557,
+    "image_placeholder": "https://picsum.photos/seed/1074/400/400"
+  },
+  {
+    "product_id": "P1075",
+    "title": "CookWell Foldable Blender",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Foldable Blender is a foldable blender designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 12.71,
+    "rating": 4.1,
+    "review_count": 1438,
+    "image_placeholder": "https://picsum.photos/seed/1075/400/400"
+  },
+  {
+    "product_id": "P1076",
+    "title": "Hearth&Co Stainless Steel Air Fryer",
+    "category": "Home & Kitchen",
+    "description": "The Hearth&Co Stainless Steel Air Fryer is a stainless steel air fryer designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for travel.",
+    "price": 142.95,
+    "rating": 3.4,
+    "review_count": 88,
+    "image_placeholder": "https://picsum.photos/seed/1076/400/400"
+  },
+  {
+    "product_id": "P1077",
+    "title": "CookWell Adjustable Knife Set",
+    "category": "Home & Kitchen",
+    "description": "The CookWell Adjustable Knife Set is a adjustable knife set designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 103.72,
+    "rating": 4.1,
+    "review_count": 897,
+    "image_placeholder": "https://picsum.photos/seed/1077/400/400"
+  },
+  {
+    "product_id": "P1078",
+    "title": "KitchenPro Foldable Kettle",
+    "category": "Home & Kitchen",
+    "description": "The KitchenPro Foldable Kettle is a foldable kettle designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 94.82,
+    "rating": 4.9,
+    "review_count": 474,
+    "image_placeholder": "https://picsum.photos/seed/1078/400/400"
+  },
+  {
+    "product_id": "P1079",
+    "title": "Homely Stainless Steel Air Fryer",
+    "category": "Home & Kitchen",
+    "description": "The Homely Stainless Steel Air Fryer is a stainless steel air fryer designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 90.61,
+    "rating": 4.8,
+    "review_count": 1542,
+    "image_placeholder": "https://picsum.photos/seed/1079/400/400"
+  },
+  {
+    "product_id": "P1080",
+    "title": "Skinly SPF 30 Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly SPF 30 Moisturizer is a spf 30 moisturizer designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 43.29,
+    "rating": 4.3,
+    "review_count": 422,
+    "image_placeholder": "https://picsum.photos/seed/1080/400/400"
+  },
+  {
+    "product_id": "P1081",
+    "title": "Lumi\u00e8re Vitamin C Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Vitamin C Face Serum is a vitamin c face serum designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 34.77,
+    "rating": 4.3,
+    "review_count": 287,
+    "image_placeholder": "https://picsum.photos/seed/1081/400/400"
+  },
+  {
+    "product_id": "P1082",
+    "title": "Verdant Deep Cleansing Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Deep Cleansing Face Serum is a deep cleansing face serum designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 50.41,
+    "rating": 3.2,
+    "review_count": 1488,
+    "image_placeholder": "https://picsum.photos/seed/1082/400/400"
+  },
+  {
+    "product_id": "P1083",
+    "title": "Botaniq Fragrance-Free Hair Oil",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Fragrance-Free Hair Oil is a fragrance-free hair oil designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 45.62,
+    "rating": 4.9,
+    "review_count": 1111,
+    "image_placeholder": "https://picsum.photos/seed/1083/400/400"
+  },
+  {
+    "product_id": "P1084",
+    "title": "Verdant Organic Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Organic Body Lotion is a organic body lotion designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 50.59,
+    "rating": 4.2,
+    "review_count": 1325,
+    "image_placeholder": "https://picsum.photos/seed/1084/400/400"
+  },
+  {
+    "product_id": "P1085",
+    "title": "Botaniq Gentle Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Gentle Body Lotion is a gentle body lotion designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 46.53,
+    "rating": 4.1,
+    "review_count": 1557,
+    "image_placeholder": "https://picsum.photos/seed/1085/400/400"
+  },
+  {
+    "product_id": "P1086",
+    "title": "Botaniq Organic Face Wash",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Organic Face Wash is a organic face wash designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 32.33,
+    "rating": 3.7,
+    "review_count": 1063,
+    "image_placeholder": "https://picsum.photos/seed/1086/400/400"
+  },
+  {
+    "product_id": "P1087",
+    "title": "Skinly Gentle Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Gentle Face Serum is a gentle face serum designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 57.2,
+    "rating": 3.2,
+    "review_count": 1669,
+    "image_placeholder": "https://picsum.photos/seed/1087/400/400"
+  },
+  {
+    "product_id": "P1088",
+    "title": "Verdant SPF 30 Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant SPF 30 Body Lotion is a spf 30 body lotion designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 30.2,
+    "rating": 3.0,
+    "review_count": 1210,
+    "image_placeholder": "https://picsum.photos/seed/1088/400/400"
+  },
+  {
+    "product_id": "P1089",
+    "title": "Skinly SPF 30 Lip Balm",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly SPF 30 Lip Balm is a spf 30 lip balm designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 25.93,
+    "rating": 4.1,
+    "review_count": 1413,
+    "image_placeholder": "https://picsum.photos/seed/1089/400/400"
+  },
+  {
+    "product_id": "P1090",
+    "title": "Verdant Deep Cleansing Face Wash",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Deep Cleansing Face Wash is a deep cleansing face wash designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for travel.",
+    "price": 20.63,
+    "rating": 3.5,
+    "review_count": 499,
+    "image_placeholder": "https://picsum.photos/seed/1090/400/400"
+  },
+  {
+    "product_id": "P1091",
+    "title": "Skinly Deep Cleansing Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Deep Cleansing Moisturizer is a deep cleansing moisturizer designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 57.35,
+    "rating": 4.4,
+    "review_count": 789,
+    "image_placeholder": "https://picsum.photos/seed/1091/400/400"
+  },
+  {
+    "product_id": "P1092",
+    "title": "Skinly Organic Lip Balm",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Organic Lip Balm is a organic lip balm designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 58.74,
+    "rating": 4.0,
+    "review_count": 1164,
+    "image_placeholder": "https://picsum.photos/seed/1092/400/400"
+  },
+  {
+    "product_id": "P1093",
+    "title": "Lumi\u00e8re Gentle Sunscreen",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Gentle Sunscreen is a gentle sunscreen designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 15.69,
+    "rating": 3.0,
+    "review_count": 2192,
+    "image_placeholder": "https://picsum.photos/seed/1093/400/400"
+  },
+  {
+    "product_id": "P1094",
+    "title": "Skinly Hydrating Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Hydrating Face Serum is a hydrating face serum designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 21.78,
+    "rating": 4.9,
+    "review_count": 2015,
+    "image_placeholder": "https://picsum.photos/seed/1094/400/400"
+  },
+  {
+    "product_id": "P1095",
+    "title": "Verdant Gentle Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Gentle Body Lotion is a gentle body lotion designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 29.79,
+    "rating": 3.4,
+    "review_count": 215,
+    "image_placeholder": "https://picsum.photos/seed/1095/400/400"
+  },
+  {
+    "product_id": "P1096",
+    "title": "Verdant Vitamin C Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Vitamin C Moisturizer is a vitamin c moisturizer designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 32.55,
+    "rating": 4.2,
+    "review_count": 224,
+    "image_placeholder": "https://picsum.photos/seed/1096/400/400"
+  },
+  {
+    "product_id": "P1097",
+    "title": "Botaniq Gentle Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Gentle Moisturizer is a gentle moisturizer designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 12.4,
+    "rating": 4.5,
+    "review_count": 2488,
+    "image_placeholder": "https://picsum.photos/seed/1097/400/400"
+  },
+  {
+    "product_id": "P1098",
+    "title": "Verdant SPF 30 Hair Oil",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant SPF 30 Hair Oil is a spf 30 hair oil designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 55.06,
+    "rating": 3.6,
+    "review_count": 2415,
+    "image_placeholder": "https://picsum.photos/seed/1098/400/400"
+  },
+  {
+    "product_id": "P1099",
+    "title": "Botaniq Hydrating Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Hydrating Moisturizer is a hydrating moisturizer designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 39.78,
+    "rating": 3.5,
+    "review_count": 337,
+    "image_placeholder": "https://picsum.photos/seed/1099/400/400"
+  },
+  {
+    "product_id": "P1100",
+    "title": "Botaniq Fragrance-Free Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Fragrance-Free Moisturizer is a fragrance-free moisturizer designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 6.14,
+    "rating": 3.9,
+    "review_count": 2437,
+    "image_placeholder": "https://picsum.photos/seed/1100/400/400"
+  },
+  {
+    "product_id": "P1101",
+    "title": "Lumi\u00e8re Hydrating Sunscreen",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Hydrating Sunscreen is a hydrating sunscreen designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 44.18,
+    "rating": 4.4,
+    "review_count": 1864,
+    "image_placeholder": "https://picsum.photos/seed/1101/400/400"
+  },
+  {
+    "product_id": "P1102",
+    "title": "Skinly SPF 30 Lip Balm",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly SPF 30 Lip Balm is a spf 30 lip balm designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 41.7,
+    "rating": 4.9,
+    "review_count": 1746,
+    "image_placeholder": "https://picsum.photos/seed/1102/400/400"
+  },
+  {
+    "product_id": "P1103",
+    "title": "Lumi\u00e8re SPF 30 Shampoo",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re SPF 30 Shampoo is a spf 30 shampoo designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 50.64,
+    "rating": 3.1,
+    "review_count": 684,
+    "image_placeholder": "https://picsum.photos/seed/1103/400/400"
+  },
+  {
+    "product_id": "P1104",
+    "title": "PureGlow Gentle Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The PureGlow Gentle Body Lotion is a gentle body lotion designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 31.31,
+    "rating": 3.6,
+    "review_count": 1653,
+    "image_placeholder": "https://picsum.photos/seed/1104/400/400"
+  },
+  {
+    "product_id": "P1105",
+    "title": "PureGlow Organic Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The PureGlow Organic Body Lotion is a organic body lotion designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 38.29,
+    "rating": 4.8,
+    "review_count": 1325,
+    "image_placeholder": "https://picsum.photos/seed/1105/400/400"
+  },
+  {
+    "product_id": "P1106",
+    "title": "Botaniq Hydrating Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Hydrating Moisturizer is a hydrating moisturizer designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 57.94,
+    "rating": 4.7,
+    "review_count": 2361,
+    "image_placeholder": "https://picsum.photos/seed/1106/400/400"
+  },
+  {
+    "product_id": "P1107",
+    "title": "Botaniq Gentle Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Gentle Face Serum is a gentle face serum designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 31.41,
+    "rating": 4.3,
+    "review_count": 1144,
+    "image_placeholder": "https://picsum.photos/seed/1107/400/400"
+  },
+  {
+    "product_id": "P1108",
+    "title": "PureGlow Anti-Aging Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The PureGlow Anti-Aging Body Lotion is a anti-aging body lotion designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 31.38,
+    "rating": 3.8,
+    "review_count": 1320,
+    "image_placeholder": "https://picsum.photos/seed/1108/400/400"
+  },
+  {
+    "product_id": "P1109",
+    "title": "Verdant Fragrance-Free Face Wash",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Fragrance-Free Face Wash is a fragrance-free face wash designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 43.46,
+    "rating": 3.6,
+    "review_count": 1645,
+    "image_placeholder": "https://picsum.photos/seed/1109/400/400"
+  },
+  {
+    "product_id": "P1110",
+    "title": "Lumi\u00e8re Organic Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Organic Moisturizer is a organic moisturizer designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 19.63,
+    "rating": 3.2,
+    "review_count": 1660,
+    "image_placeholder": "https://picsum.photos/seed/1110/400/400"
+  },
+  {
+    "product_id": "P1111",
+    "title": "PureGlow Organic Hair Oil",
+    "category": "Beauty & Personal Care",
+    "description": "The PureGlow Organic Hair Oil is a organic hair oil designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 16.13,
+    "rating": 3.7,
+    "review_count": 2046,
+    "image_placeholder": "https://picsum.photos/seed/1111/400/400"
+  },
+  {
+    "product_id": "P1112",
+    "title": "Lumi\u00e8re Hydrating Sunscreen",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Hydrating Sunscreen is a hydrating sunscreen designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 35.66,
+    "rating": 4.9,
+    "review_count": 1799,
+    "image_placeholder": "https://picsum.photos/seed/1112/400/400"
+  },
+  {
+    "product_id": "P1113",
+    "title": "Skinly Vitamin C Face Serum",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Vitamin C Face Serum is a vitamin c face serum designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 49.16,
+    "rating": 4.4,
+    "review_count": 1277,
+    "image_placeholder": "https://picsum.photos/seed/1113/400/400"
+  },
+  {
+    "product_id": "P1114",
+    "title": "Botaniq Anti-Aging Moisturizer",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Anti-Aging Moisturizer is a anti-aging moisturizer designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 59.58,
+    "rating": 4.8,
+    "review_count": 1895,
+    "image_placeholder": "https://picsum.photos/seed/1114/400/400"
+  },
+  {
+    "product_id": "P1115",
+    "title": "Lumi\u00e8re Fragrance-Free Body Lotion",
+    "category": "Beauty & Personal Care",
+    "description": "The Lumi\u00e8re Fragrance-Free Body Lotion is a fragrance-free body lotion designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 33.48,
+    "rating": 3.5,
+    "review_count": 1981,
+    "image_placeholder": "https://picsum.photos/seed/1115/400/400"
+  },
+  {
+    "product_id": "P1116",
+    "title": "Verdant Organic Shampoo",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Organic Shampoo is a organic shampoo designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 16.29,
+    "rating": 4.2,
+    "review_count": 564,
+    "image_placeholder": "https://picsum.photos/seed/1116/400/400"
+  },
+  {
+    "product_id": "P1117",
+    "title": "Skinly Anti-Aging Face Wash",
+    "category": "Beauty & Personal Care",
+    "description": "The Skinly Anti-Aging Face Wash is a anti-aging face wash designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 20.43,
+    "rating": 3.0,
+    "review_count": 1227,
+    "image_placeholder": "https://picsum.photos/seed/1117/400/400"
+  },
+  {
+    "product_id": "P1118",
+    "title": "Verdant Organic Shampoo",
+    "category": "Beauty & Personal Care",
+    "description": "The Verdant Organic Shampoo is a organic shampoo designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 35.08,
+    "rating": 3.7,
+    "review_count": 2265,
+    "image_placeholder": "https://picsum.photos/seed/1118/400/400"
+  },
+  {
+    "product_id": "P1119",
+    "title": "Botaniq Organic Face Wash",
+    "category": "Beauty & Personal Care",
+    "description": "The Botaniq Organic Face Wash is a organic face wash designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 58.96,
+    "rating": 3.5,
+    "review_count": 1573,
+    "image_placeholder": "https://picsum.photos/seed/1119/400/400"
+  },
+  {
+    "product_id": "P1120",
+    "title": "Momentum Lightweight Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Lightweight Resistance Bands is a lightweight resistance bands designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 158.69,
+    "rating": 4.6,
+    "review_count": 1586,
+    "image_placeholder": "https://picsum.photos/seed/1120/400/400"
+  },
+  {
+    "product_id": "P1121",
+    "title": "TrailBlaze Waterproof Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Waterproof Cycling Gloves is a waterproof cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 38.26,
+    "rating": 4.9,
+    "review_count": 1364,
+    "image_placeholder": "https://picsum.photos/seed/1121/400/400"
+  },
+  {
+    "product_id": "P1122",
+    "title": "TrailBlaze Breathable Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Breathable Cycling Gloves is a breathable cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 162.27,
+    "rating": 3.8,
+    "review_count": 637,
+    "image_placeholder": "https://picsum.photos/seed/1122/400/400"
+  },
+  {
+    "product_id": "P1123",
+    "title": "Northbound Insulated Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Insulated Resistance Bands is a insulated resistance bands designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for office use.",
+    "price": 156.08,
+    "rating": 4.3,
+    "review_count": 1350,
+    "image_placeholder": "https://picsum.photos/seed/1123/400/400"
+  },
+  {
+    "product_id": "P1124",
+    "title": "Momentum Quick-Dry Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Quick-Dry Resistance Bands is a quick-dry resistance bands designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 193.46,
+    "rating": 3.1,
+    "review_count": 285,
+    "image_placeholder": "https://picsum.photos/seed/1124/400/400"
+  },
+  {
+    "product_id": "P1125",
+    "title": "TrailBlaze Insulated Backpack",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Insulated Backpack is a insulated backpack designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for travel.",
+    "price": 102.27,
+    "rating": 3.2,
+    "review_count": 416,
+    "image_placeholder": "https://picsum.photos/seed/1125/400/400"
+  },
+  {
+    "product_id": "P1126",
+    "title": "TrailBlaze Insulated Running Shoes",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Insulated Running Shoes is a insulated running shoes designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 79.47,
+    "rating": 3.1,
+    "review_count": 1473,
+    "image_placeholder": "https://picsum.photos/seed/1126/400/400"
+  },
+  {
+    "product_id": "P1127",
+    "title": "Northbound Waterproof Backpack",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Waterproof Backpack is a waterproof backpack designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 97.71,
+    "rating": 4.4,
+    "review_count": 742,
+    "image_placeholder": "https://picsum.photos/seed/1127/400/400"
+  },
+  {
+    "product_id": "P1128",
+    "title": "Northbound Breathable Tent",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Breathable Tent is a breathable tent designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 154.09,
+    "rating": 4.0,
+    "review_count": 2393,
+    "image_placeholder": "https://picsum.photos/seed/1128/400/400"
+  },
+  {
+    "product_id": "P1129",
+    "title": "Momentum Reflective Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Reflective Jacket is a reflective jacket designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 65.11,
+    "rating": 3.0,
+    "review_count": 1910,
+    "image_placeholder": "https://picsum.photos/seed/1129/400/400"
+  },
+  {
+    "product_id": "P1130",
+    "title": "Momentum Waterproof Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Waterproof Yoga Mat is a waterproof yoga mat designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 208.61,
+    "rating": 5.0,
+    "review_count": 1230,
+    "image_placeholder": "https://picsum.photos/seed/1130/400/400"
+  },
+  {
+    "product_id": "P1131",
+    "title": "Ridgeline Insulated Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The Ridgeline Insulated Cycling Gloves is a insulated cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for travel.",
+    "price": 53.44,
+    "rating": 3.8,
+    "review_count": 1984,
+    "image_placeholder": "https://picsum.photos/seed/1131/400/400"
+  },
+  {
+    "product_id": "P1132",
+    "title": "Northbound Quick-Dry Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Quick-Dry Resistance Bands is a quick-dry resistance bands designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 73.54,
+    "rating": 4.4,
+    "review_count": 94,
+    "image_placeholder": "https://picsum.photos/seed/1132/400/400"
+  },
+  {
+    "product_id": "P1133",
+    "title": "Northbound Insulated Running Shoes",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Insulated Running Shoes is a insulated running shoes designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 191.93,
+    "rating": 4.6,
+    "review_count": 205,
+    "image_placeholder": "https://picsum.photos/seed/1133/400/400"
+  },
+  {
+    "product_id": "P1134",
+    "title": "PeakForm Reflective Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The PeakForm Reflective Jacket is a reflective jacket designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for daily commutes.",
+    "price": 138.27,
+    "rating": 3.7,
+    "review_count": 783,
+    "image_placeholder": "https://picsum.photos/seed/1134/400/400"
+  },
+  {
+    "product_id": "P1135",
+    "title": "TrailBlaze Waterproof Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Waterproof Yoga Mat is a waterproof yoga mat designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 76.26,
+    "rating": 3.9,
+    "review_count": 2378,
+    "image_placeholder": "https://picsum.photos/seed/1135/400/400"
+  },
+  {
+    "product_id": "P1136",
+    "title": "Ridgeline Waterproof Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The Ridgeline Waterproof Yoga Mat is a waterproof yoga mat designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 79.96,
+    "rating": 3.8,
+    "review_count": 827,
+    "image_placeholder": "https://picsum.photos/seed/1136/400/400"
+  },
+  {
+    "product_id": "P1137",
+    "title": "PeakForm Non-Slip Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The PeakForm Non-Slip Jacket is a non-slip jacket designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for outdoor activities.",
+    "price": 65.45,
+    "rating": 4.6,
+    "review_count": 1978,
+    "image_placeholder": "https://picsum.photos/seed/1137/400/400"
+  },
+  {
+    "product_id": "P1138",
+    "title": "Momentum Non-Slip Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Non-Slip Yoga Mat is a non-slip yoga mat designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 212.28,
+    "rating": 3.3,
+    "review_count": 929,
+    "image_placeholder": "https://picsum.photos/seed/1138/400/400"
+  },
+  {
+    "product_id": "P1139",
+    "title": "TrailBlaze Quick-Dry Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Quick-Dry Resistance Bands is a quick-dry resistance bands designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for gifting.",
+    "price": 176.46,
+    "rating": 3.0,
+    "review_count": 2202,
+    "image_placeholder": "https://picsum.photos/seed/1139/400/400"
+  },
+  {
+    "product_id": "P1140",
+    "title": "Northbound Non-Slip Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Non-Slip Jacket is a non-slip jacket designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 91.25,
+    "rating": 4.3,
+    "review_count": 1526,
+    "image_placeholder": "https://picsum.photos/seed/1140/400/400"
+  },
+  {
+    "product_id": "P1141",
+    "title": "TrailBlaze Adjustable Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Adjustable Cycling Gloves is a adjustable cycling gloves designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for travel.",
+    "price": 140.87,
+    "rating": 4.9,
+    "review_count": 1348,
+    "image_placeholder": "https://picsum.photos/seed/1141/400/400"
+  },
+  {
+    "product_id": "P1142",
+    "title": "Ridgeline Breathable Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The Ridgeline Breathable Cycling Gloves is a breathable cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for daily commutes.",
+    "price": 147.04,
+    "rating": 3.2,
+    "review_count": 190,
+    "image_placeholder": "https://picsum.photos/seed/1142/400/400"
+  },
+  {
+    "product_id": "P1143",
+    "title": "TrailBlaze Reflective Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Reflective Yoga Mat is a reflective yoga mat designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for daily commutes.",
+    "price": 60.84,
+    "rating": 4.1,
+    "review_count": 1596,
+    "image_placeholder": "https://picsum.photos/seed/1143/400/400"
+  },
+  {
+    "product_id": "P1144",
+    "title": "Momentum Quick-Dry Water Bottle",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Quick-Dry Water Bottle is a quick-dry water bottle designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 148.22,
+    "rating": 4.7,
+    "review_count": 1676,
+    "image_placeholder": "https://picsum.photos/seed/1144/400/400"
+  },
+  {
+    "product_id": "P1145",
+    "title": "Momentum Non-Slip Backpack",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Non-Slip Backpack is a non-slip backpack designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 104.5,
+    "rating": 3.5,
+    "review_count": 1490,
+    "image_placeholder": "https://picsum.photos/seed/1145/400/400"
+  },
+  {
+    "product_id": "P1146",
+    "title": "TrailBlaze Non-Slip Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Non-Slip Resistance Bands is a non-slip resistance bands designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 94.81,
+    "rating": 3.4,
+    "review_count": 505,
+    "image_placeholder": "https://picsum.photos/seed/1146/400/400"
+  },
+  {
+    "product_id": "P1147",
+    "title": "TrailBlaze Adjustable Running Shoes",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Adjustable Running Shoes is a adjustable running shoes designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for travel.",
+    "price": 175.65,
+    "rating": 3.5,
+    "review_count": 520,
+    "image_placeholder": "https://picsum.photos/seed/1147/400/400"
+  },
+  {
+    "product_id": "P1148",
+    "title": "Northbound Breathable Backpack",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Breathable Backpack is a breathable backpack designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 56.92,
+    "rating": 4.7,
+    "review_count": 1350,
+    "image_placeholder": "https://picsum.photos/seed/1148/400/400"
+  },
+  {
+    "product_id": "P1149",
+    "title": "PeakForm Lightweight Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The PeakForm Lightweight Jacket is a lightweight jacket designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for outdoor activities.",
+    "price": 217.41,
+    "rating": 4.1,
+    "review_count": 719,
+    "image_placeholder": "https://picsum.photos/seed/1149/400/400"
+  },
+  {
+    "product_id": "P1150",
+    "title": "TrailBlaze Lightweight Water Bottle",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Lightweight Water Bottle is a lightweight water bottle designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for home use.",
+    "price": 86.51,
+    "rating": 4.6,
+    "review_count": 2416,
+    "image_placeholder": "https://picsum.photos/seed/1150/400/400"
+  },
+  {
+    "product_id": "P1151",
+    "title": "TrailBlaze Waterproof Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Waterproof Jacket is a waterproof jacket designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for home use.",
+    "price": 38.37,
+    "rating": 3.8,
+    "review_count": 470,
+    "image_placeholder": "https://picsum.photos/seed/1151/400/400"
+  },
+  {
+    "product_id": "P1152",
+    "title": "Ridgeline Reflective Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The Ridgeline Reflective Cycling Gloves is a reflective cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 118.75,
+    "rating": 3.2,
+    "review_count": 2068,
+    "image_placeholder": "https://picsum.photos/seed/1152/400/400"
+  },
+  {
+    "product_id": "P1153",
+    "title": "Momentum Lightweight Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Lightweight Jacket is a lightweight jacket designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 145.81,
+    "rating": 3.1,
+    "review_count": 1966,
+    "image_placeholder": "https://picsum.photos/seed/1153/400/400"
+  },
+  {
+    "product_id": "P1154",
+    "title": "Momentum Breathable Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Breathable Cycling Gloves is a breathable cycling gloves designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for home use.",
+    "price": 27.29,
+    "rating": 3.2,
+    "review_count": 2496,
+    "image_placeholder": "https://picsum.photos/seed/1154/400/400"
+  },
+  {
+    "product_id": "P1155",
+    "title": "Northbound Waterproof Jacket",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Waterproof Jacket is a waterproof jacket designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for office use.",
+    "price": 143.68,
+    "rating": 4.1,
+    "review_count": 1336,
+    "image_placeholder": "https://picsum.photos/seed/1155/400/400"
+  },
+  {
+    "product_id": "P1156",
+    "title": "Northbound Insulated Cycling Gloves",
+    "category": "Sports & Outdoors",
+    "description": "The Northbound Insulated Cycling Gloves is a insulated cycling gloves designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for outdoor activities.",
+    "price": 137.93,
+    "rating": 3.2,
+    "review_count": 473,
+    "image_placeholder": "https://picsum.photos/seed/1156/400/400"
+  },
+  {
+    "product_id": "P1157",
+    "title": "Momentum Adjustable Tent",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Adjustable Tent is a adjustable tent designed for everyday use. Features durable construction, easy setup, and a 2-year warranty. Ideal for gifting.",
+    "price": 196.72,
+    "rating": 3.8,
+    "review_count": 1862,
+    "image_placeholder": "https://picsum.photos/seed/1157/400/400"
+  },
+  {
+    "product_id": "P1158",
+    "title": "Momentum Breathable Resistance Bands",
+    "category": "Sports & Outdoors",
+    "description": "The Momentum Breathable Resistance Bands is a breathable resistance bands designed for everyday use. Features durable construction, easy setup, and a 90-day warranty. Ideal for gifting.",
+    "price": 77.0,
+    "rating": 3.5,
+    "review_count": 630,
+    "image_placeholder": "https://picsum.photos/seed/1158/400/400"
+  },
+  {
+    "product_id": "P1159",
+    "title": "TrailBlaze Breathable Yoga Mat",
+    "category": "Sports & Outdoors",
+    "description": "The TrailBlaze Breathable Yoga Mat is a breathable yoga mat designed for everyday use. Features durable construction, easy setup, and a 1-year warranty. Ideal for office use.",
+    "price": 31.39,
+    "rating": 3.2,
+    "review_count": 1531,
+    "image_placeholder": "https://picsum.photos/seed/1159/400/400"
+  }
+]

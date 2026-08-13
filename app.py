@@ -6,6 +6,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 from PIL import Image
 
 from agent.graph import build_graph
+from agent.startup import ensure_data_and_indexes
 from agent.tools_core import search_by_image
 
 import logging
@@ -14,6 +15,15 @@ logging.getLogger("streamlit").setLevel(logging.ERROR)
 
 st.set_page_config(page_title="ShopAssist — AI Shopping Agent", page_icon="🛍️", layout="wide")
 
+@st.cache_resource
+def _startup_once():
+    """Runs once per process. Streamlit Community Cloud (and most no-Dockerfile
+    free hosts) has no separate build step, so the dataset + Chroma indexes get
+    built here on first launch instead of ahead of time in a Docker image."""
+    ensure_data_and_indexes()
+
+
+_startup_once()
 
 def get_event_loop():
     """One loop for the whole app lifetime — reused for BOTH building the graph

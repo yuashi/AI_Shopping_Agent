@@ -1,5 +1,6 @@
-.venv
 .env
 chroma_db/
 __pycache__/
-agent/__pycache__
+*.pyc
+streamlit.log
+.venv/

@@ -11,7 +11,7 @@ open_clip_torch>=2.24.0
 torch>=2.2.0
 streamlit>=1.38.0
 pillow>=10.0.0
-datasets>=2.20.0
+datasets==3.6.0
 huggingface_hub 
 pyarrow 
 pandas

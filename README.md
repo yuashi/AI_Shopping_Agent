@@ -13,7 +13,7 @@ entirely on a free stack.
 ## Dataset
 
 McAuley-Lab/Amazon-Reviews-2023 from Hugging Face
-Category - Electronics
+(Category - Electronics)
 
 ## Models Used
 
@@ -44,7 +44,7 @@ ChromaDB (persisted locally) — two collections: `products`, `policies`
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yuashi/AI_Shopping_Agent.git
 cd AI_Shopping_Agent
 pip install -r requirements.txt
 

@@ -1,25 +1,16 @@
-"""
-Embedding backends behind one common interface: `embed_texts(list[str]) -> list[list[float]]`.
-
-- TfidfEmbedder: pure scikit-learn, no downloads, no internet. Used in this sandbox
-  and as an offline fallback. NOT what you want in the final deployed project.
-- SentenceTransformerEmbedder: the real backend (all-MiniLM-L6-v2). Requires
-  internet access to huggingface.co the first time it downloads weights.
-- ClipImageEmbedder: real image embedding backend (open_clip ViT-B-32), same idea.
-
-Swap which one gets used in data/build_product_index.py and agent/graph.py by
-changing EMBEDDER_BACKEND below (or via the EMBEDDER_BACKEND env var).
-"""
 import os
 import pickle
 from pathlib import Path
 
 import numpy as np
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 
 class TfidfEmbedder:
-    """Offline stand-in. Fit once on the corpus, persist the vectorizer, reuse it
-    for query-time embedding so query and corpus vectors live in the same space."""
 
     def __init__(self, vectorizer_path="chroma_db/tfidf_vectorizer.pkl", dim=384):
         from sklearn.feature_extraction.text import TfidfVectorizer
@@ -82,15 +73,6 @@ class ClipImageEmbedder:
 
 
 class MockImageEmbedder:
-    """Offline stand-in for ClipImageEmbedder — no model download, no internet.
-
-    Produces a crude color-histogram + downsampled-pixel feature vector. It can
-    only tell images apart by broad color/shape, nowhere near CLIP's semantic
-    understanding, but it lets the whole image-search pipeline (index build,
-    Chroma storage, nearest-neighbor query, MCP tool, UI) run and be verified
-    end-to-end without downloading anything. Swap to ClipImageEmbedder for the
-    real deployment — same `embed_image` interface, no other code changes needed.
-    """
 
     def __init__(self, dim=384):
         self.dim = dim

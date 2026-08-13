@@ -31,9 +31,6 @@ def main():
             doc_id += 1
 
     embedder = get_text_embedder()
-    # Reuse the SAME fitted vectorizer as the product index would break this if run
-    # standalone with tfidf (different vocab). For the offline demo we fit fresh here;
-    # in production (sentence-transformers) this is a non-issue since there's no fitting step.
     if hasattr(embedder, "fit"):
         embedder.vectorizer_path = base.parent / "chroma_db" / "tfidf_vectorizer_policies.pkl"
         embedder._fitted = False

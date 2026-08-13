@@ -1,14 +1,3 @@
-"""
-Generates a synthetic product catalog + reviews for local development/testing.
-
-For the real project, replace this with the Amazon Reviews 2023 dataset:
-    from datasets import load_dataset
-    meta = load_dataset("McAuley-Lab/Amazon-Reviews-2023", "raw_meta_Electronics",
-                         split="full", trust_remote_code=True)
-    reviews = load_dataset("McAuley-Lab/Amazon-Reviews-2023", "raw_review_Electronics",
-                            split="full", trust_remote_code=True)
-(Requires internet access to huggingface.co, unavailable in this sandbox.)
-"""
 import json
 import random
 from pathlib import Path

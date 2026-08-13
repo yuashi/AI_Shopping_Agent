@@ -1,14 +1,14 @@
-"""
-The actual retrieval/business logic, kept separate from the MCP server wiring so it's
-independently testable and independently reusable (e.g. directly from Streamlit for the
-image-upload path, which doesn't need to go through an LLM tool call).
-"""
 import json
 import random
 import sys
 from pathlib import Path
 
 import PIL
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 sys.path.append(str(Path(__file__).parent.parent))
 import os
@@ -33,10 +33,6 @@ def _get_client():
 
 
 def _make_embedder(vectorizer_filename: str):
-    """Same backend switch as agent/embeddings.get_text_embedder(), but each
-    TF-IDF collection needs its own persisted vectorizer (fit on that
-    collection's vocabulary), so this takes a filename rather than being a
-    single shared singleton."""
     if os.getenv("EMBEDDER_BACKEND", "sentence_transformers") == "sentence_transformers":
         print(f"Using text embedder : sentence_transformers")
         return SentenceTransformerEmbedder()
@@ -98,8 +94,7 @@ def _get_image_embedder():
 
 def search_by_image(image: "PIL.Image.Image", top_k: int = 5) -> list[dict]:
     """Find visually similar products given an uploaded PIL image, via a
-    nearest-neighbor lookup against the `product_images` Chroma collection
-    (built by data/build_image_index.py).
+    nearest-neighbor lookup against the `product_images` Chroma collection.
 
     Falls back to a helpful error if that collection hasn't been built yet.
     """

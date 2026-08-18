@@ -8,7 +8,7 @@ entirely on a free stack.
 
 ## Deployed Version
 
-[ShopAssist](https://aishoppingagent-vjnkvt6g7woyrhjpxj9gz5.streamlit.app/)
+[ShopAssist]https://ai-shoppingagent.streamlit.app/
 
 ## Dataset
 
@@ -17,7 +17,7 @@ McAuley-Lab/Amazon-Reviews-2023 from Hugging Face
 
 ## Models Used
 
-- Langraph Agent -> llama-3.1-8b-instant
+- Langraph Agent -> openai/gpt-oss-120b
 - Transformer Text Embedder -> all-MiniLM-L6-v2
 - CLIP Image Embedder -> ViT-B-32
 
